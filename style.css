@@ -1,0 +1,26 @@
+input {
+    width: 200px;
+    height: 40px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+  }
+  
+  button {
+    width: 100px;
+    height: 40px;
+    background-color: #000000;
+    color: #fff;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  h1 {
+    color: rgb(0, 0, 0);
+  }
+  
+  body {
+    background-color:rgb(166, 174, 94);
+  }
